@@ -1,0 +1,305 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | Canal Uno FHD" tvg-logo="http://l3d.us:8080/images/0200abb799a26158456f814660ab30eb.png" group-title="TV | Colombia",CO | Canal Uno FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176593
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol FHD" tvg-logo="http://l3d.us:8080/images/ae586052f7f722d77781ab91318aae33.png" group-title="TV | Colombia",CO | Caracol FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176568
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CO | Caracol Internacional FHD" tvg-logo="http://l3d.us:8080/images/1913a79bfd6fefc616a1b4686b5d9bad.png" group-title="TV | Colombia",CO | Caracol Internacional FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/199323
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN FHD" tvg-logo="http://l3d.us:8080/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="TV | Colombia",CO | RCN FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155681
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | Win Sports + FHD" tvg-logo="http://l3d.us:8080/images/6c44c6af476026b6bba1b39fa2a11861.png" group-title="TV | Colombia",CO | Win Sports + FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155248
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canal Uno FHD" tvg-logo="http://l3d.us:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="TV | Ecuador",EC| Canal Uno FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153886
+#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176955
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| Ecuador TV FHD" tvg-logo="http://l3d.us:8080/images/fb67ad8c0abb37ff12112b9537297311.png" group-title="TV | Ecuador",EC| Ecuador TV FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153889
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153885
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Gamavision FHD" tvg-logo="http://l3d.us:8080/images/234167571b05ff8b71fe36d4b6a453ed.png" group-title="TV | Ecuador",EC| Gamavision FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153888
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television FHD" tvg-logo="http://l3d.us:8080/images/ffe842654c551c19652b879a16f7ffb6.png" group-title="TV | Ecuador",EC| Oromar Television FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176967
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS FHD" tvg-logo="http://l3d.us:8080/images/9321de6b7ef6b1afa10d8fd803fbd437.png" group-title="TV | Ecuador",EC| RTS FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153887
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC| TC Television FHD" tvg-logo="http://l3d.us:8080/images/5c9a56aac66d085c563388abcafbe879.png" group-title="TV | Ecuador",EC| TC Television FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/172233
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas FHD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153891
+#EXTINF:-1 tvg-id="" tvg-name="EC| Teleamazonas Quito FHD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas Quito FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/153892
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC FHD" tvg-logo="http://l3d.us:8080/images/729c37a1d3319ee21991227b1f84c687.png" group-title="TV | Ecuador",EC| TVC FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176977
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="LA| Estrella TV FHD" tvg-logo="http://l3d.us:8080/images/f06039b14c6a0dfef86b4f26c3f85c91.png" group-title="TV | USA Latino",LA| Estrella TV FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/202644
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PE| America TV FHD" tvg-logo="http://l3d.us:8080/images/44610b0bc83d6a6cc1eaf3c93fe5f6b2.png" group-title="TV | Peru",PE| America TV FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/199968
+#EXTINF:-1 tvg-id="" tvg-name="S| Sky Sports Cricket" tvg-logo="http://l3d.us:8080/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="TV | Sports",S| Sky Sports Cricket
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155996
+#EXTINF:-1 tvg-id="" tvg-name="RD | TELEMICRO" tvg-logo="" group-title="TV | Dominicana",RD | TELEMICRO
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223876
+#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS" tvg-logo="http://l3d.us:8080/images/e944560a5b8369bdc8bd77586ef8193f.png" group-title="TV | España",ES | #VAMOS
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223877
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://l3d.us:8080/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",DAZN 1
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223949
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://l3d.us:8080/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",DAZN 2
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223950
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://l3d.us:8080/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",DAZN 3
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223951
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="http://l3d.us:8080/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",DAZN F1
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223952
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223953
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 2" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 2
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223954
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 3" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 3
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223955
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 4" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 4
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223956
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | Super Sports Laliga" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | La Liga Movistar",LALIGA | Super Sports Laliga
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223957
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | TUDN X1" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",UEFA | TUDN X1
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223958
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | TUDN X2" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",UEFA | TUDN X2
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223959
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | TUDN X3" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",UEFA | TUDN X3
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223960
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | TUDN X4" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",UEFA | TUDN X4
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223961
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | TUDN X5" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",UEFA | TUDN X5
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223962
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X6" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",SP: MX: TUDN X6
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223963
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X7" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",SP: MX: TUDN X7
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223964
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X8" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",SP: MX: TUDN X8
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223965
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X9" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",SP: MX: TUDN X9
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223966
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X10" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",SP: MX: TUDN X10
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223967
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X11" tvg-logo="http://l3d.us:8080/images/c57405829d0477366cff567927abea93.png" group-title="TV | Tudn Xtra",SP: MX: TUDN X11
+http://l3d.us:8080/Alesal755/PfLndyaQZp/223968
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Basico HD" tvg-logo="" group-title="TV | Chile",CL | CDF Basico HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25363
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF FHD" tvg-logo="" group-title="TV | Chile",CL | CDF FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25365
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF HD" tvg-logo="" group-title="TV | Chile",CL | CDF HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25369
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision FHD" tvg-logo="" group-title="TV | Chile",CL | Chilevision FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25374
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision HD" tvg-logo="" group-title="TV | Chile",CL | Chilevision HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25375
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red HD" tvg-logo="" group-title="TV | Chile",CL | La Red HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25380
+#EXTINF:-1 tvg-id="" tvg-name="CL | Mega FHD" tvg-logo="" group-title="TV | Chile",CL | Mega FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25384
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="" group-title="TV | Chile",CL | MEGA HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25345
+#EXTINF:-1 tvg-id="" tvg-name="CL | Sporting HD" tvg-logo="" group-title="TV | Chile",CL | Sporting HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25392
+#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak HD" tvg-logo="" group-title="TV | Chile",CL | Teletrak HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/25373
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="CO | Cable Noticias HD" tvg-logo="http://l3d.us:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="TV | Colombia",CO | Cable Noticias HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176589
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CO | Canal Capital HD" tvg-logo="http://l3d.us:8080/images/7d48e98de7500514c52514b8fc0d554d.png" group-title="TV | Colombia",CO | Canal Capital HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155734
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | Canal Uno HD" tvg-logo="http://l3d.us:8080/images/0200abb799a26158456f814660ab30eb.png" group-title="TV | Colombia",CO | Canal Uno HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/202063
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol HD" tvg-logo="http://l3d.us:8080/images/ae586052f7f722d77781ab91318aae33.png" group-title="TV | Colombia",CO | Caracol HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176569
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://l3d.us:8080/images/1913a79bfd6fefc616a1b4686b5d9bad.png" group-title="TV | Colombia",CO | Caracol Internacional HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/202068
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO | City TV HD" tvg-logo="http://l3d.us:8080/images/b24080d53734cf8d45ac547c65abf12c.png" group-title="TV | Colombia",CO | City TV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176573
+#EXTINF:-1 tvg-id="pasiones.us" tvg-name="CO | Pasiones HD" tvg-logo="http://l3d.us:8080/images/38bc8488fc45561873c70974a9da7612.png" group-title="TV | Colombia",CO | Pasiones HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155735
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN HD" tvg-logo="http://l3d.us:8080/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="TV | Colombia",CO | RCN HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176580
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN Internacional HD" tvg-logo="http://l3d.us:8080/images/3e4ec3ed66237b31cad81c08c1708c36.png" group-title="TV | Colombia",CO | RCN Internacional HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/199513
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas HD" tvg-logo="http://l3d.us:8080/images/f2694f07dae153ffa8ae64b9a512e227.png" group-title="TV | Colombia",CO | RCN Novelas HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155682
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO | Señal Colombia HD" tvg-logo="http://l3d.us:8080/images/9c9f4666edc99c7199cbb0293d5c0a42.png" group-title="TV | Colombia",CO | Señal Colombia HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155736
+#EXTINF:-1 tvg-id="aande.co" tvg-name="CO | Telemedellin HD" tvg-logo="http://l3d.us:8080/images/1b55a38b913dcf2212fabb5dfc5a297d.png" group-title="TV | Colombia",CO | Telemedellin HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/202130
+#EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | Tro HD" tvg-logo="http://l3d.us:8080/images/14078df1b083aff8c5210720736237d0.PNG" group-title="TV | Colombia",CO | Tro HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/202066
+#EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports + HD" tvg-logo="http://l3d.us:8080/images/6c44c6af476026b6bba1b39fa2a11861.png" group-title="TV | Colombia",CO | Win Sports + HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/12257
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports HD" tvg-logo="http://l3d.us:8080/images/dbe1ff0cad5c343a7cc474e37566f2f4.png" group-title="TV | Colombia",CO | Win Sports HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/176587
+#EXTINF:-1 tvg-id="" tvg-name="CR | Extrema TV HD" tvg-logo="http://l3d.us:8080/images/094a9922d278b8304ad101e1c849dfa9.png" group-title="TV | Costa Rica",CR | Extrema TV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10339
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD" tvg-logo="http://l3d.us:8080/images/1e07aa6fbec1107166ed2353f2db8230.png" group-title="TV | Costa Rica",CR | Tigo Sports HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10336
+#EXTINF:-1 tvg-id="" tvg-name="CU | CubaMaxTV HD" tvg-logo="https://mms.businesswire.com/media/20160616005984/es/530683/5/2597547_CubaMax_TV_LOGO.jpg" group-title="TV | Cuba",CU | CubaMaxTV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/199509
+#EXTINF:-1 tvg-id="" tvg-name="D| Tigo Sports Salvador HD" tvg-logo="http://l3d.us:8080/images/7f6972401eae2892e179aeff22e3f276.png" group-title="TV | Deportes",D| Tigo Sports Salvador HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/202259
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canal Uno HD" tvg-logo="http://l3d.us:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="TV | Ecuador",EC| Canal Uno HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11046
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canela TV HQ" tvg-logo="http://l3d.us:8080/images/f8566095201bf3ab12442e3db962b07c.png" group-title="TV | Ecuador",EC| Canela TV HQ
+http://l3d.us:8080/Alesal755/PfLndyaQZp/147950
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:8080/images/4907fe4582f465f8ef13ec7a8c6b4bbe.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports 2 HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11025
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11024
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11026
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| Ecuador TV HD" tvg-logo="http://l3d.us:8080/images/fb67ad8c0abb37ff12112b9537297311.png" group-title="TV | Ecuador",EC| Ecuador TV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11030
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa HD" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11032
+#EXTINF:-1 tvg-id="ecuavisainternacional.ec" tvg-name="EC| Ecuavisa Internacional HD" tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/147959
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Gamavision HD" tvg-logo="http://l3d.us:8080/images/234167571b05ff8b71fe36d4b6a453ed.png" group-title="TV | Ecuador",EC| Gamavision HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/147955
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television HD" tvg-logo="http://l3d.us:8080/images/ffe842654c551c19652b879a16f7ffb6.png" group-title="TV | Ecuador",EC| Oromar Television HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11035
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="http://l3d.us:8080/images/9321de6b7ef6b1afa10d8fd803fbd437.png" group-title="TV | Ecuador",EC| RTS HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11036
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC| TC Television HD" tvg-logo="http://l3d.us:8080/images/5c9a56aac66d085c563388abcafbe879.png" group-title="TV | Ecuador",EC| TC Television HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11039
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas HD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11043
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas Quito HD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas Quito HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11042
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="http://l3d.us:8080/images/729c37a1d3319ee21991227b1f84c687.png" group-title="TV | Ecuador",EC| TVC HQ
+http://l3d.us:8080/Alesal755/PfLndyaQZp/147952
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="LA| Estrella TV HD" tvg-logo="http://l3d.us:8080/images/f06039b14c6a0dfef86b4f26c3f85c91.png" group-title="TV | USA Latino",LA| Estrella TV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155512
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="LA| Galavision HD" tvg-logo="http://l3d.us:8080/images/7a145880ffb91024db895dc9a821b3e9.png" group-title="TV | USA Latino",LA| Galavision HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/18095
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="LA| NBC Universo HD" tvg-logo="http://l3d.us:8080/images/0053a36b4c1be3c5dc3a0e82264878f3.png" group-title="TV | USA Latino",LA| NBC Universo HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/187234
+#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="LA| Telemundo 47 NY HD" tvg-logo="http://l3d.us:8080/images/42ea033f4086d655bca2bb34a4b69667.png" group-title="TV | USA Latino",LA| Telemundo 47 NY HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10910
+#EXTINF:-1 tvg-id="telemundoknso.us" tvg-name="LA| Telemundo Fresno HD" tvg-logo="http://l3d.us:8080/images/6d9b81c81c1b194f8d4f74c3b44c053f.png" group-title="TV | USA Latino",LA| Telemundo Fresno HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/169839
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="LA| Telemundo LA HD" tvg-logo="http://l3d.us:8080/images/d45033fafcd17a95d4fe5838e99e52d1.png" group-title="TV | USA Latino",LA| Telemundo LA HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10909
+#EXTINF:-1 tvg-id="univision66wgbo.us" tvg-name="LA| Univision Chicago HD" tvg-logo="http://l3d.us:8080/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="TV | USA Latino",LA| Univision Chicago HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/155511
+#EXTINF:-1 tvg-id="univision21kftv.us" tvg-name="LA| Univision Fresno HD" tvg-logo="http://l3d.us:8080/images/679378a70e450c5520d55e3c08b09b28.png" group-title="TV | USA Latino",LA| Univision Fresno HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/169824
+#EXTINF:-1 tvg-id="" tvg-name="LA| Univision HD" tvg-logo="http://l3d.us:8080/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="TV | USA Latino",LA| Univision HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10890
+#EXTINF:-1 tvg-id="" tvg-name="LA| Univision HD" tvg-logo="http://l3d.us:8080/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="TV | USA Latino",LA| Univision HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10906
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PE| America TV HD" tvg-logo="http://l3d.us:8080/images/44610b0bc83d6a6cc1eaf3c93fe5f6b2.png" group-title="TV | Peru",PE| America TV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/11437
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PE| ATV HD" tvg-logo="http://l3d.us:8080/images/e5fabc5e493d856704faaff2fdf32796.png" group-title="TV | Peru",PE| ATV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/12424
+#EXTINF:-1 tvg-id="" tvg-name="PE| Fox Sports Peru HD" tvg-logo="http://l3d.us:8080/images/73b32372ce9ac552e57936d004ddada5.png" group-title="TV | Peru",PE| Fox Sports Peru HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/12426
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="PE| Gol Peru HD" tvg-logo="http://l3d.us:8080/images/617a57a4ac9ed501b2196d4a96957319.png" group-title="TV | Peru",PE| Gol Peru HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/16369
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="S| ESPN 2 HD" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Sports",S| ESPN 2 HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10652
+#EXTINF:-1 tvg-id="espn.us" tvg-name="S| ESPN HD" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Sports",S| ESPN HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10653
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="S| FOX Sports 1 HD" tvg-logo="http://l3d.us:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="TV | Sports",S| FOX Sports 1 HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10664
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="S| SEC Network HD" tvg-logo="http://l3d.us:8080/images/44358f2bc8b06a8a91a73abc3b04db64.png" group-title="TV | Sports",S| SEC Network HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10671
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="S| World Fishing Network HD" tvg-logo="http://l3d.us:8080/images/8a4b1de50be98e87ff68181fc07348b8.png" group-title="TV | Sports",S| World Fishing Network HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/10673
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US | A&E HD" tvg-logo="http://l3d.us:8080/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="TV | USA",US | A&E HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17299
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US | Animal Planet HD" tvg-logo="http://l3d.us:8080/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | USA",US | Animal Planet HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17297
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US | Bravo HD" tvg-logo="http://l3d.us:8080/images/fd9ab41e47a9ef4f6477a8a000bf404f.png" group-title="TV | USA",US | Bravo HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17291
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US | Comedy Central HD" tvg-logo="http://l3d.us:8080/images/e0323a9039add2978bf5b49550572c7c.png" group-title="TV | USA",US | Comedy Central HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17282
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US | Cooking Channel HD" tvg-logo="http://l3d.us:8080/images/739b1f3a9bd2a0f35f2752d367af3107.png" group-title="TV | USA",US | Cooking Channel HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17285
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="US | Crime & Investigation FHD" tvg-logo="http://l3d.us:8080/images/9f71ab08110ac80e7ebaaeba3d10c9f4.png" group-title="TV | USA",US | Crime & Investigation FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17192
+#EXTINF:-1 tvg-id="cw.us" tvg-name="US | CW HD" tvg-logo="http://l3d.us:8080/images/0707ba092e91260b305c326e6a353593.png" group-title="TV | USA",US | CW HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17283
+#EXTINF:-1 tvg-id="daystar.us" tvg-name="US | Daystar HD" tvg-logo="https://i.ibb.co/Ks5jVVF/daystar.png" group-title="TV | USA",US | Daystar HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17272
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US | Discovery Channel HD" tvg-logo="http://l3d.us:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | USA",US | Discovery Channel HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17278
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US | Discovery Science HD" tvg-logo="http://l3d.us:8080/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="TV | USA",US | Discovery Science HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17275
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US | Disney Channel HD" tvg-logo="http://l3d.us:8080/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="TV | USA",US | Disney Channel HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/184893
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US | Disney Jr HD" tvg-logo="http://l3d.us:8080/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="TV | USA",US | Disney Jr HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/184895
+#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="US | DIY Network HD" tvg-logo="http://l3d.us:8080/images/5914ad845f418ca768b2c0021587b316.png" group-title="TV | USA",US | DIY Network HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17280
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US | E! Entertainment FHD" tvg-logo="http://l3d.us:8080/images/e1671797c52e15f763380b45e841ec32.png" group-title="TV | USA",US | E! Entertainment FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17271
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US | E! Entertainment HD" tvg-logo="http://l3d.us:8080/images/e1671797c52e15f763380b45e841ec32.png" group-title="TV | USA",US | E! Entertainment HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17270
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US | EPIX 2 HD" tvg-logo="http://l3d.us:8080/images/cc5ae0f96fd5b150c62d53e601c56c80.png" group-title="TV | USA",US | EPIX 2 HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/197423
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US | EPIX FHD" tvg-logo="http://l3d.us:8080/images/c4c98a784460dbd6b7e30f71b466d178.png" group-title="TV | USA",US | EPIX FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17189
+#EXTINF:-1 tvg-id="" tvg-name="US | Fine Living HD" tvg-logo="https://i.ibb.co/tb9JNt7/fineliving.png" group-title="TV | USA",US | Fine Living HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17265
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US | Food Network HD" tvg-logo="http://l3d.us:8080/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="TV | USA",US | Food Network HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17264
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US | FreeForm HD" tvg-logo="http://l3d.us:8080/images/c79121742eef56970f39393746483d0b.png" group-title="TV | USA",US | FreeForm HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17262
+#EXTINF:-1 tvg-id="" tvg-name="US | Fuel HD" tvg-logo="http://l3d.us:8080/images/9872ed9fc22fc182d371c3e9ed316094.png" group-title="TV | USA",US | Fuel HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17261
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US | FUSE HD" tvg-logo="http://l3d.us:8080/images/ffe839615e13215abacaf519ff139066.png" group-title="TV | USA",US | FUSE HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17188
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US | FX HD" tvg-logo="http://l3d.us:8080/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="TV | USA",US | FX HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17268
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="US | FXM HD" tvg-logo="http://l3d.us:8080/images/23771a91d28437a26f1d7fca723e3ab1.png" group-title="TV | USA",US | FXM HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/197230
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US | FXX HD" tvg-logo="http://l3d.us:8080/images/2131a961d37899516cb061079bd109a9.png" group-title="TV | USA",US | FXX HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17184
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="US | FYI NetworkHD" tvg-logo="http://l3d.us:8080/images/40aacdcf79bbdaad8450dfedc310bbb9.png" group-title="TV | USA",US | FYI NetworkHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17182
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US | Game Show Network HD" tvg-logo="http://l3d.us:8080/images/5e584b11b6c993702caf5ee6c95d5b9c.png" group-title="TV | USA",US | Game Show Network HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17181
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | Hallmark Channel HD" tvg-logo="http://l3d.us:8080/images/3a4fcef814aacbc0c28f3d3d6ab67bb2.png" group-title="TV | USA",US | Hallmark Channel HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17246
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US | Hallmark Movies & Mysteries HD" tvg-logo="http://l3d.us:8080/images/535a7951c766e252ded8d60e6671c2f6.png" group-title="TV | USA",US | Hallmark Movies & Mysteries HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17180
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US | HBO 2 FHD" tvg-logo="http://l3d.us:8080/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="TV | USA",US | HBO 2 FHD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17259
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US | HBO Comedy HD" tvg-logo="http://l3d.us:8080/images/7b83bbe569e2fce55511d0caa38cbe7f.png" group-title="TV | USA",US | HBO Comedy HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17257
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO East HD" tvg-logo="http://l3d.us:8080/images/edf8a15c0bff97f191503529236168aa.png" group-title="TV | USA",US | HBO East HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17256
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US | HBO Family HD" tvg-logo="http://l3d.us:8080/images/23b3b40dc8ae3565d2002145640f748d.png" group-title="TV | USA",US | HBO Family HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17255
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US | HBO HD" tvg-logo="http://l3d.us:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="TV | USA",US | HBO HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17254
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US | HBO Signature HD" tvg-logo="http://l3d.us:8080/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="TV | USA",US | HBO Signature HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17253
+#EXTINF:-1 tvg-id="" tvg-name="US | HBO Zone HD" tvg-logo="http://l3d.us:8080/images/c00bdd7db9efc22aee4e5fa901d24968.png" group-title="TV | USA",US | HBO Zone HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17250
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US | HGTV HD" tvg-logo="http://l3d.us:8080/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="TV | USA",US | HGTV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17247
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US | History Channel HD" tvg-logo="http://l3d.us:8080/images/c8758e00d94541adc2266ee5929ce9c2.png" group-title="TV | USA",US | History Channel HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17244
+#EXTINF:-1 tvg-id="hsn2.us" tvg-name="US | HSN HD" tvg-logo="http://l3d.us:8080/images/283c575d86ee4843805d3fadb4130541.png" group-title="TV | USA",US | HSN HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17179
+#EXTINF:-1 tvg-id="" tvg-name="US | IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Independent_Film_Channel_%28IFC%29_logo.svg/1200px-Independent_Film_Channel_%28IFC%29_logo.svg.png" group-title="TV | USA",US | IFC HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17243
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US | Investigation Discovery HD" tvg-logo="http://l3d.us:8080/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | USA",US | Investigation Discovery HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17242
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US | Lifetime HD" tvg-logo="http://l3d.us:8080/images/ca7c7a8ab8d2243b48622384947692aa.png" group-title="TV | USA",US | Lifetime HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17241
+#EXTINF:-1 tvg-id="lifetimemvies.us" tvg-name="US | lifetime movies HD" tvg-logo="http://l3d.us:8080/images/fff98680335785979a958bc197f90320.png" group-title="TV | USA",US | lifetime movies HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17178
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="US | Motor Trend HD" tvg-logo="http://l3d.us:8080/images/ac1a453d0cdc1f19d9479ccfaa8b082c.png" group-title="TV | USA",US | Motor Trend HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17274
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US | Movieplex" tvg-logo="http://l3d.us:8080/images/c9d213cbf4349a55e8b04f87a9015a62.png" group-title="TV | USA",US | Movieplex
+http://l3d.us:8080/Alesal755/PfLndyaQZp/197424
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US | MSG  HD" tvg-logo="http://l3d.us:8080/images/6e2baaf3b97dbeef01c0043275f9a0e7.png" group-title="TV | USA",US | MSG  HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17177
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US | MTV 2 HD" tvg-logo="http://l3d.us:8080/images/fa9e9b2cd587337064a7d549bad03c39.png" group-title="TV | USA",US | MTV 2 HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/175439
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US | MTV HD" tvg-logo="http://l3d.us:8080/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | USA",US | MTV HD
+http://l3d.us:8080/Alesal755/PfLndyaQZp/17238
